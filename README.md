@@ -1,8 +1,8 @@
 # cbps-sdk
 Celeste Blue's Portal of Stuff DolceSDK
 
-Rebuilt website: https://cbps-sdk.xo.je
-Other HTML website: None
+- Rebuilt website: https://cbps-sdk.xo.je
+- Other HTML website: https://team-cbps.github.io/cbps-sdk
 
 Current archiving status: 20% done
 
